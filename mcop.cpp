@@ -702,6 +702,10 @@ double outOptionPrice(int n, int N, double r, double delta, double S0, double T,
     // output price option
     cout << "Option Price: ";
     cout << payoffFunctions(S, n, N, K, r, type, style, exotic, add_info) << endl << endl;
+    cout << "____________________________________" << endl << endl;
+    cout << "Input C to continue: ";
+    string con;
+    cin >> con;
     return 0;
 }
 
