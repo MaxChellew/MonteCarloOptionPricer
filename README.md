@@ -32,3 +32,6 @@ Following is a list of the knowledge I acquired from completing this project:
 Following is a list of the constructive cristism i would give my self for this project to improve:
 - To implement sing Points
 - To perform testing of convergence for different N and n values
+
+## Notes
+How to use
