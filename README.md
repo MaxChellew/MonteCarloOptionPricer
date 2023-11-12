@@ -9,8 +9,9 @@ This project was a self-set project that looked into the implementation of a Mon
 
 ## Objectives
 Following is a list of objectives for this project:
-- Simulate a stocks price using Brownian motion for N simulations
-- Calculate the Payoff of the option for each stock simulation
+- Perform a monte-carlo simulation of a stock price
+- Calculate the Payoff for different types of options (Put or Call)
+- Calculate the payoff for different styles of options 
 - Calculate the average of the payoff's of the option for each stock price simulation
 - Discount the average payoff to give value of option at time zero
 - Option check list: Put & Call options, American & European options and Non-exotic, Asian & barrier Options
