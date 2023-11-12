@@ -1,6 +1,6 @@
 # Monte Carlo Option Pricer
 
-This project was a self-set project that looked into the implementation of a Monte Carlo method to price exotic options. The theoretical basis behind this program was to use Brownian motion to simulate the change in the underlying stock's price over time. Then multiple simulations of the stocks price could be mapped and the payoffs of an option could be calculated for each simulation. The payoffs for each simulation could then be averaged and discounted to give the value of the option at time zero. Please find the C++ file in the repository to explore the exotic option pricer program.
+This project was a self-set project that looked into the implementation of a Monte Carlo simulation to price exotic options. The theoretical basis behind this program was to use Brownian motion to simulate the change in the underlying stock's price over time. Then multiple simulations of the stocks price could be mapped and the payoffs of an option could be calculated for each simulation. The payoffs for each simulation could then be averaged and discounted to give the value of the option at time zero. Please find the C++ file in the repository to explore the exotic option pricer program.
 
 ## Table of contents
 * [Objective](##objective)
@@ -32,6 +32,3 @@ Following is a list of the knowledge I acquired from completing this project:
 Following is a list of the constructive cristism i would give my self for this project to improve:
 - To implement sing Points
 - To perform testing of convergence for different N and n values
-
-## Notes
-How to use
