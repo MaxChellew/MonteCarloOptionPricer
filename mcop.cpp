@@ -7,6 +7,8 @@
 
 using namespace std;
 
+// System Functions
+
 // Inputs:
 // (v) - vector that is to be summed
 // (j) - number of elements in vector (v)
@@ -649,6 +651,8 @@ double payoffFunctions(vector<vector<double>> S, int n, int N, double K, double 
     return cumulativeSum(payoff, payoff.size()) / payoff.size();
 } // this function outputs the averaged payoff for different styles and types of options 
 
+// UI Functions
+
 // Output Menu
 int outMenu() {
     cout << "MENU:" << endl;
@@ -708,6 +712,8 @@ double outOptionPrice(int n, int N, double r, double delta, double S0, double T,
     cin >> con;
     return 0;
 }
+
+// UI
 
 // Main (UI)
 int main() {
