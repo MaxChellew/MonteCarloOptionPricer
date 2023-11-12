@@ -9,7 +9,7 @@ This project was a self-set project that looked into the implementation of a Mon
 
 <a name="objectives"></a>
 ## Objectives
-Following is a list of objectives for this project:
+Following are the project objectives:
 - Create a monte-carlo simulation of a stock price
 - Calculate the Payoff for different types of options (Put or Call)
 - Calculate the payoff for different styles of options (European or American)
@@ -19,7 +19,7 @@ Following is a list of objectives for this project:
 
 <a name="key_takeaways"></a>
 ## Key Takeaways
-Following is a list of the knowledge I acquired from completing this project:
+Following is the knowledge I acquired from completing this project:
 - Coding in C++
 - Peforming Monte Carlo simulation using browian motion
 - Payoff functuons for different options
@@ -27,7 +27,7 @@ Following is a list of the knowledge I acquired from completing this project:
 
 <a name="reflection"></a>
 ## Reflection
-Following is a list of thing i would do to improve this project:
+Following are the things i would do to improve this project:
 - Implement Points
 - Opitmize code structure to improve runtime of calculating option prices
 - Perform testing of convergence for different N and n values
